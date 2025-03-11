@@ -63,5 +63,3 @@ Enter ISBN: 12345
 Added Successfully
 ```
 
-## Contributing
-Feel free to contribute by adding more functionalities, optimizing the search algorithm, or improving the UI.
